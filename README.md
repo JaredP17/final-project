@@ -58,7 +58,7 @@ Contributors: Crystal Watkins, Jared Porter, Scott Griffin, and Stuart Scott.
 Not currently taking any additional contributions at this time.
 
 ## Tests
-There is no test needed for this project. 
+There is no test needed for this project.
 
 
 ## login
